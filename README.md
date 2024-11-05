@@ -1,6 +1,7 @@
 # DualTextToSpeech
 
 DualTextToSpeech is a GUI-based application that converts phrases in a text (`.txt`) or Excel (`.xls` or `.xlsx`) file into MP3 audio files, with support for two languages. Users can select the languages and voices for each language using Edge TTS.
+![image](https://github.com/user-attachments/assets/ae46c0f6-4534-4c02-9474-3ec9f04f4b7b)
 
 ## Prerequisites
 
