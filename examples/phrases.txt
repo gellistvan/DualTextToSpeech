@@ -1,0 +1,84 @@
+egy nagy család	en stor familj
+egy kis gyerek	ett litet barn
+egy új ház	ett nytt hus
+egy régi lakás	en gammal lägenhet
+egy nagy város	en stor stad
+egy kis váras	en liten stad
+egy szép nő	en vacker kvinna
+egy kis fiú	en liten pojke
+egy nagy lány	en stor flicka
+egy jó feleség	en bra fru
+egy csinos nő	en snygg kvinna
+egy boldog ember	en lycklig människa
+egy régi barát	en gammal vän
+egy nagy lakás	en stor lägenhet
+egy nagy probléma	ett stort problem
+egy rossz autó	en dålig bil
+egy boldog család	en lycklig familj
+egy új autó	en ny bil
+egy régi fotó	ett gammalt foto
+egy egész jó ötlet	en ganska god idé
+egy nagyon jó kérdés	en mycket bra fråga
+a kis lány	den lilla flickan
+a kis fiú	den lilla pojken
+az új ház	det nya huset
+a fiatal férfi	den unga mannen
+az öreg hölgy	den gamla damen
+a nagy város	den stora staden
+az egész család	hela familjen
+az új orvos	den nya läkaren
+az új téma	det nya temat
+a kis gyerek	det lilla barnet
+az új kolíéga	den nya kollegan
+a régi hotel	det gamla hotellet
+az új kérdés	den nya frågan
+az új program	det nya programmet
+a régi történet	den gamla historias
+az egész ház	hela huset
+a nagy autó	den stora bilen
+a régi fotó	det gamla fotot
+az egész lakás	hela lägenheten
+az egész város	hela staden
+a kis lakás	den lilla lägenheten
+egy egyszerű dolog	en enkel sak
+egy fiatal hölgy	en ung dam
+egy öreg fiú	en gammal pojke
+egy pontos válasz	ett precist svar
+egy érdekes kérdés	en intressant fråga
+egy jó kérdés	en bra fråga
+egy öreg ember	en gammal man
+egy jobb lakás	en bättre lägenhet
+egy jobb autó	en bättre bil
+egy jobb fotó	ett bättre foto
+egy jobb ötlet	en bättre idé
+egy szép nap	en vacker dag
+egy érdekes történet	en intressant historia
+egy új téma	ett nytt tema
+egy igaz történet	en sann historia
+egy érdekes program	ett intressant program
+egy új lakás	en ny lägenhet
+egy fontos dolog	en viktig sak
+egy nagyon rossz fotó	ett mycket dåligt foto
+egy nagyon jó kolléga	en mycket god kollega
+egy nagy probléma	ett mycket stort problem
+az új cím	den nya adressen
+az egész város	hela staden
+az idős úr	den gamla herren
+a legjobb válasz	det bästa svaret
+a fél város	halva staden
+az új probléma	det nya problemet
+az egész történet	hela historias
+a helyes válasz	det riktiga svaret
+a fiatal ember	den unga mannen
+az új telefonszám	det nya telefonnumret
+a pontos program	det exakta programmet
+az új probléma	det nya problemet
+a pontos cím	den exakta adressen
+az új, érdekes téma	det nya intressanta ämnet
+a legjobb tanár	den bästa läraren
+a legjobb kolléga	den bästa kollegan
+a legjobb fotó	det bästa fotot
+a legjobb ötlet	den bästa idén
+a legjobb téma	det bästa ämnet
+a legjobb válasz	det bästa svaret
+a legjobb dolog	det bästa tinget

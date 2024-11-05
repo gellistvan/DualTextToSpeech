@@ -1,0 +1,7 @@
+*.mp3
+*.exe
+*.txt
+*.xlsx
+
+# Ignore virtual environment folder
+venv/
